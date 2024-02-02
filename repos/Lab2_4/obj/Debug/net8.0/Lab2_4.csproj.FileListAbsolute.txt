@@ -1,0 +1,14 @@
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.AssemblyInfoInputs.cache
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.AssemblyInfo.cs
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.csproj.CoreCompileInputs.cache
+C:\Users\Mengtian Lin\source\repos\Lab2_4\bin\Debug\net8.0\Lab2_4.exe
+C:\Users\Mengtian Lin\source\repos\Lab2_4\bin\Debug\net8.0\Lab2_4.deps.json
+C:\Users\Mengtian Lin\source\repos\Lab2_4\bin\Debug\net8.0\Lab2_4.runtimeconfig.json
+C:\Users\Mengtian Lin\source\repos\Lab2_4\bin\Debug\net8.0\Lab2_4.dll
+C:\Users\Mengtian Lin\source\repos\Lab2_4\bin\Debug\net8.0\Lab2_4.pdb
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.dll
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\refint\Lab2_4.dll
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.pdb
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\Lab2_4.genruntimeconfig.cache
+C:\Users\Mengtian Lin\source\repos\Lab2_4\obj\Debug\net8.0\ref\Lab2_4.dll

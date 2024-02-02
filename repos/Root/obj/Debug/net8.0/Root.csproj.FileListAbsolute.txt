@@ -1,0 +1,11 @@
+C:\Users\Mengtian Lin\source\repos\Root\bin\Debug\net8.0\Root.deps.json
+C:\Users\Mengtian Lin\source\repos\Root\bin\Debug\net8.0\Root.dll
+C:\Users\Mengtian Lin\source\repos\Root\bin\Debug\net8.0\Root.pdb
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.AssemblyInfoInputs.cache
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.AssemblyInfo.cs
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.csproj.CoreCompileInputs.cache
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.dll
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\refint\Root.dll
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.pdb
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\ref\Root.dll
