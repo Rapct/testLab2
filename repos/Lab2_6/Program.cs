@@ -1,6 +1,6 @@
 ﻿// Mengtian Lin, CPS3330 * 2 Lab #2.
 using System;
- 
+
 namespace Lab2_6
 {
     class Program
