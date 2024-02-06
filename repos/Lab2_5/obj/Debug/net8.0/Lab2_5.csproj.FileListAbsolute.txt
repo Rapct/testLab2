@@ -9,3 +9,4 @@ C:\Users\Mengtian Lin\source\repos\Lab2_5\obj\Debug\net8.0\Lab2_5.dll
 C:\Users\Mengtian Lin\source\repos\Lab2_5\obj\Debug\net8.0\refint\Lab2_5.dll
 C:\Users\Mengtian Lin\source\repos\Lab2_5\obj\Debug\net8.0\Lab2_5.pdb
 C:\Users\Mengtian Lin\source\repos\Lab2_5\obj\Debug\net8.0\ref\Lab2_5.dll
+C:\Users\Mengtian Lin\source\repos\Lab2_5\obj\Debug\net8.0\Lab2_5.sourcelink.json

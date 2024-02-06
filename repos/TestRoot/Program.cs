@@ -13,7 +13,7 @@ namespace TestRoot
                 if (a < 0)
                     Console.WriteLine("Please enter a positive number!");
             } while (a < 0);
-            root = Root.Root.MyRoot(a);
+            root = Unit1.Root.MyRoot(a);
         }
     }
 }

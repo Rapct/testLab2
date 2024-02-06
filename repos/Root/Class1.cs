@@ -1,5 +1,5 @@
 ﻿// Mengtian Lin, CPS3330 * 2 Lab #2.
-namespace Root
+namespace Unit1
 {
     public class Root
     {

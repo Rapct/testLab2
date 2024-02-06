@@ -9,3 +9,4 @@ C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.dll
 C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\refint\Root.dll
 C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.pdb
 C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\ref\Root.dll
+C:\Users\Mengtian Lin\source\repos\Root\obj\Debug\net8.0\Root.sourcelink.json

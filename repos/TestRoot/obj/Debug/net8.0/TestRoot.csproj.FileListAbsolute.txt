@@ -16,3 +16,4 @@ C:\Users\Mengtian Lin\source\repos\TestRoot\obj\Debug\net8.0\refint\TestRoot.dll
 C:\Users\Mengtian Lin\source\repos\TestRoot\obj\Debug\net8.0\TestRoot.pdb
 C:\Users\Mengtian Lin\source\repos\TestRoot\obj\Debug\net8.0\TestRoot.genruntimeconfig.cache
 C:\Users\Mengtian Lin\source\repos\TestRoot\obj\Debug\net8.0\ref\TestRoot.dll
+C:\Users\Mengtian Lin\source\repos\TestRoot\obj\Debug\net8.0\TestRoot.sourcelink.json
